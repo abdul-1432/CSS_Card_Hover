@@ -20,7 +20,7 @@ You only need a basic understanding of HTML and CSS to implement this effect suc
 1. Clone the repository to your local machine or download the ZIP file directly.
 
 ```bash
-git clone https://github.com/yourusername/css-card-hover-transition.git
+git clone https://github.com/abdul-1432/CSS_Card_Hover
 ```
 
 2. Open the `index.html` file in your preferred code editor.
