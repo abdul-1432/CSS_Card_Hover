@@ -1,8 +1,8 @@
 # CSS Card Hover Transition Effect
 
 This repository contains a simple example of how to create a stylish card hover transition effect using CSS. With just a few lines of code, you can add an engaging animation to your website's cards when users hover over them. This effect adds a touch of interactivity and can greatly enhance the user experience.
+![Uploading 1.png…]()
 
-![Demo](demo.gif)
 
 ## Getting Started
 
