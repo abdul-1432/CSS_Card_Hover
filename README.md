@@ -27,7 +27,7 @@ git clone https://github.com/abdul-1432/CSS_Card_Hover
 
 3. Locate the CSS section in the `<head>` of the HTML file.
 
-```html
+```HTML
 <head>
     <link rel="stylesheet" href="styles.css">
 </head>
@@ -37,7 +37,7 @@ git clone https://github.com/abdul-1432/CSS_Card_Hover
 
 5. In the `index.html` file, find the card element you want to apply the hover transition effect to. It will look like this:
 
-```html
+```HTML
 <div class="card">
     <img src="card-image.jpg" alt="Card Image">
     <div class="card-content">
@@ -49,8 +49,8 @@ git clone https://github.com/abdul-1432/CSS_Card_Hover
 
 6. Add the `hover-card` class to the `card` element:
 
-```html
-<div class="card hover-card">
+```HTML
+<div class=" card hover-card">
     <!-- ... rest of the card content ... -->
 </div>
 ```
